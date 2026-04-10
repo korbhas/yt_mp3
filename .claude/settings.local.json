@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(python3 yt_mp3.py)",
+      "Bash(py yt_mp3.py)"
+    ]
+  }
+}
