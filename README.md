@@ -1,1 +1,1 @@
-# yt_mp3
+yt-mp3 download <url> -q 320 -o ~/Music
